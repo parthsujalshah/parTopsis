@@ -12,7 +12,7 @@ setup(
     # Provide either the link to your github or to your website
     url='https://github.com/parthsujalshah/parTopsis', #here
     # I explain this later on
-    # download_url='https://',
+    download_url='https://github.com/parthsujalshah/parTopsis/archive/v_01.tar.gz',
     # Keywords that define your package best
     keywords=['TOPSIS', 'PYTHON'],
     install_requires=[            # I get to this in a second
